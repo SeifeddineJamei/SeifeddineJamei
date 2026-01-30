@@ -41,7 +41,7 @@
   <hr />
   <p>🚀 <strong>Enjoying my work?</strong></p>
   <p>Your support keeps the coffee flowing and the code growing!</p>
-<div style="display: flex; justify-content: center; align-items: center; width: 100%; margin: 20px 0;">
+<div style="display: flex; justify-content: center; align-items: center; width: 100%; margin: 0px 20;">
   
   <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
