@@ -43,11 +43,13 @@
   <p>Your support keeps the coffee flowing and the code growing!</p>
 <div style="display: flex; justify-content: center; align-items: center; width: 100%; margin: 0px 20;">
   
+ <div style="display: flex; justify-content: center; width: 100%;">
   <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
          alt="Buy Me A Coffee" 
-         style="height: 60px !important; width: 240px !important; display: block; margin-right: 92px;">
+         style="height: 60px !important; width: 240px !important; display: block; margin-left: -120px !important;">
   </a>
+</div>
 
 </div>
 
