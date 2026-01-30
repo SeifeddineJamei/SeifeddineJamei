@@ -41,7 +41,9 @@
   <hr />
  <div style="text-align: center; width: 100%; border: 0; padding: 0; margin: 0;">
   <hr />
- <p style="text-align: center;">🚀 Enjoying my work?</p>
+ <p style="text-align: center !important; display: block; width: 100%;">
+    🚀 <strong>Enjoying my work?</strong>
+  </p>
   <p>Your support keeps the coffee flowing and the code growing!</p>
   
   <div style="width: 100%; display: block; margin-top: 20px;">
