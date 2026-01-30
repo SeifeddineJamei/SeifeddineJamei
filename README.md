@@ -44,7 +44,7 @@
   <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank" style="text-decoration: none; display: inline-block;">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
          alt="Buy Me A Coffee" 
-         style="height: 60px !important; width: 150px !important; display: block;">
+         style="height: 60px !important; width: 240px !important; display: block;">
   </a>
   <hr />
 </div>
