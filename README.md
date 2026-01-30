@@ -44,7 +44,7 @@
 <div style="display: flex; justify-content: flex-end; align-items: center; width: 70%; margin: 0;">
 <br/>
   
- <div style="display: flex; justify-content: center; width: 100%;">
+ <div style="display: flex-end; justify-content: left; width: 50%;">
   <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
          alt="Buy Me A Coffee" 
