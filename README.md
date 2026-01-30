@@ -42,7 +42,7 @@
  <div style="display: flex; flex-direction: column; align-items: center; width: 100%; text-align: center;">
   <hr style="width: 100%;">
   
-  <p style="margin-bottom: 5px;">🚀 <strong>Enjoying my work?</strong></p>
+  <p style="margin-left: 5px;">🚀 <strong>Enjoying my work?</strong></p>
   <p style="margin-top: 0;">Your support keeps the coffee flowing and the code growing!</p>
 
   <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank" style="text-decoration: none; margin-top: 15px;">
