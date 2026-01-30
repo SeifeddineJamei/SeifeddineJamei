@@ -41,12 +41,13 @@
   <hr />
   <p>🚀 <strong>Enjoying my work?</strong></p>
   <p>Your support keeps the coffee flowing and the code growing!</p>
-  <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank" style="text-decoration: none; display: inline-block;">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
+<div style="display: flex; justify-content: center; align-items: center; width: 100%; margin: 20px 0;">
+  
+  <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
          alt="Buy Me A Coffee" 
-         style="height: 60px !important; width: 240px !important; display: block;">
+         style="height: 60px !important; width: 240px !important; display: block; margin: 0 auto;">
   </a>
-  <hr />
-</div>
 
+</div>
 ###
