@@ -37,21 +37,26 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
 </div>
-<div align="center">
-  <hr />
-<p style="text-align: center !important; display: block; width: 100%; margin: 0 auto; padding-left: 40px !important;">
-  🚀 <strong>Enjoying my work?</strong>
-</p>
-  <p>Your support keeps the coffee flowing and the code growing!</p>
+<div style="width: 100%; text-align: center; display: flex; flex-direction: column; align-items: center; justify-content: center; padding-left: 50px !important;">
   
-  <div style="width: 100%; display: block; margin-top: 20px;">
+  <hr style="width: 100%; border: 0; border-top: 1px solid #eee; margin: 20px 0;" />
+
+  <p style="margin: 0; padding: 0; font-size: 18px; width: 100%; text-align: center !important;">
+    🚀 <strong>Enjoying my work?</strong>
+  </p>
+
+  <p style="margin: 5px 0 20px 0; padding: 0; width: 100%; text-align: center !important;">
+    Your support keeps the coffee flowing and the code growing!
+  </p>
+
+  <div style="display: block; width: 100%;">
     <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank" style="text-decoration: none; display: inline-block;">
       <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
            alt="Buy Me A Coffee" 
-           style="height: 60px !important; width: 240px !important; display: block; 
-                  margin: 0 auto !important; 
-                  transform: translateX(-40px) !important;">
+           style="height: 60px !important; width: 240px !important; display: block; border-radius: 8px;">
     </a>
   </div>
+
+</div>
 </div>
 
