@@ -50,7 +50,7 @@
   </p>
 
   <div style="display: block; width: 100%;">
-    <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank" style="text-decoration: none; display: inline-block;">
+    <a href="https://buymeacoffee.com/seifeddinejamei" target="_blank" style="text-decoration: none; display: inline-block;">
       <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
            alt="Buy Me A Coffee" 
            style="height: 60px !important; width: 240px !important; display: block; border-radius: 8px;">
