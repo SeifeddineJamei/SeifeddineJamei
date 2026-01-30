@@ -39,17 +39,19 @@
 </div>
 <div align="center">
   <hr />
- <div style="display: flex; flex-direction: column; align-items: center; width: 100%; text-align: center;">
-  <hr style="width: 100%;">
+ <div style="text-align: center; width: 100%; border: 0; padding: 0; margin: 0;">
+  <hr />
+  <p>🚀 <strong>Enjoying my work?</strong></p>
+  <p>Your support keeps the coffee flowing and the code growing!</p>
   
-<p>🚀 <strong>Enjoying my work?</strong></p>
-  <p style="margin-top: 0;">Your support keeps the coffee flowing and the code growing!</p>
-
-  <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank" style="text-decoration: none; margin-top: 15px;">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
-         alt="Buy Me A Coffee" 
-         style="height: 60px !important; width: 240px !important; display: block; margin: 0 auto;">
-  </a>
-</div>
+  <div style="width: 100%; display: block; margin-top: 20px;">
+    <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank" style="text-decoration: none; display: inline-block;">
+      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
+           alt="Buy Me A Coffee" 
+           style="height: 60px !important; width: 240px !important; display: block; 
+                  margin: 0 auto !important; 
+                  transform: translateX(-40px) !important;">
+    </a>
+  </div>
 </div>
 
