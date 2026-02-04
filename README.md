@@ -12,7 +12,7 @@
     <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/JameiSeifeddine">
-  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" " />
+  <img src="https://www.flaticon.com/fr/icone-gratuite/twitter_5968830?term=x&page=1&position=3&origin=search&related_id=5968830" alt="X (formerly Twitter)" />
 </a>
   </p>
 </div>
@@ -38,11 +38,11 @@
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=SeifeddineJamei&theme=github_dark&hide_border=false" alt="GitHub Streak" />
  <br/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeifeddineJamei&theme=github_dark" alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com/?user=SeifeddineJamei&theme=github_dark" alt="GitHub Streak" />
   <br/>
-### 🏆 Achievements
+ 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SeifeddineJamei&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+ <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=SeifeddineJamei&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
