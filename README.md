@@ -11,9 +11,13 @@
   <p align="left">
     <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/JameiSeifeddine">
- <img src="https://github.com/user-attachments/assets/45ade3ae-1c6c-448a-98da-9cd3dbd0206b" width="512" height="512" alt="X (formerly Twitter)" />
-</a>
+ 
+ <a href="https://x.com/JameiSeifeddine">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" 
+         width="30" 
+         style="filter: invert(1) drop-shadow(0px 0px 2px rgba(255,255,255,0.2));" 
+         alt="X Profile" />
+  </a>
   </p>
 </div>
 
@@ -41,7 +45,12 @@
 
  🏆 Achievements
 
-<img width="1045" height="259" alt="achieve " src="https://github.com/user-attachments/assets/2ff88f0d-bd77-46d9-8cf5-7d8c3ce622d6" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2ff88f0d-bd77-46d9-8cf5-7d8c3ce622d6" 
+       width="650" 
+       alt="GitHub Achievements" 
+       title="GitHub Achievements: Pull Shark and YOLO" />
+</div>/>
 
 ## 💡 Engineering Philosophy
 > <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" />
