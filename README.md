@@ -11,8 +11,8 @@
   <p align="left">
     <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-   <a href="https://x.com/JameiSeifeddine">
-  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X Profile" />
+  <a href="https://x.com/JameiSeifeddine">
+  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (formerly Twitter)" />
 </a>
   </p>
 </div>
@@ -34,13 +34,12 @@
 
 ## 📊 Performance Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeifeddineJamei&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeifeddineJamei&theme=github_dark" alt="GitHub Stats" />
+  <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=SeifeddineJamei&theme=github_dark&hide_border=false" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeifeddineJamei&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
-
+ <br/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeifeddineJamei&theme=github_dark" alt="GitHub Streak" />
+  <br/>
 ### 🏆 Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SeifeddineJamei&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
