@@ -12,10 +12,11 @@
     <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  
- <a href="https://x.com/JameiSeifeddine">
+
+  <a href="https://x.com/JameiSeifeddine">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" 
-         width="30" 
-         style="filter: invert(1) drop-shadow(0px 0px 2px rgba(255,255,255,0.2));" 
+         width="35" 
+         style="filter: invert(1) drop-shadow(0px 0px 5px rgba(255,255,255,0.4)); margin-bottom: 20px;" 
          alt="X Profile" />
   </a>
   </p>
@@ -50,12 +51,12 @@
        width="650" 
        alt="GitHub Achievements" 
        title="GitHub Achievements: Pull Shark and YOLO" />
-</div>/>
+</div>
 
 ## 💡 Engineering Philosophy
 > <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" />
 
----
+
 
 ## ☕ Support My Work
 <div align="center">
