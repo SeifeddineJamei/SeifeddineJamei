@@ -40,21 +40,8 @@
  <br/>
 
  🏆 Achievements
-<div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUyTFzue-Jq-UhZN5F0HcVn4YEhQnue-t6cw&s" 
-       width="110" 
-       height="110" 
-       style="border-radius: 50%; border: 2px solid #30363d; margin-right: 10px;" 
-       alt="Pull Shark" />
 
-  <img src="https://pbs.twimg.com/media/F-W1LsNX0AAmMDB.jpg" 
-       width="110" 
-       height="110" 
-       style="border-radius: 50%; border: 2px solid #30363d;" 
-       alt="YOLO Badge" />
-</div>
-
----
+<img width="1045" height="259" alt="achieve " src="https://github.com/user-attachments/assets/2ff88f0d-bd77-46d9-8cf5-7d8c3ce622d6" />
 
 ## 💡 Engineering Philosophy
 > <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" />
