@@ -65,6 +65,8 @@
   <a href="https://buymeacoffee.com/seifeddinejamei" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important; width: 200px !important;">
   </a>
+    <br/>
+  
   <a href="https://www.patreon.com/c/seif74" target="_blank">
     <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" height="50" />
   </a>
@@ -73,5 +75,16 @@
 <br />
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=SeifeddineJamei&icon=0&color=0" />
+  <a href="https://x.com/JameiSeifeddine">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" height="28" style="border: 1px solid #333; border-radius: 5px;" />
+  </a>
+  
+  &nbsp;&nbsp; <img src="https://visitcount.itsvg.in/api?id=SeifeddineJamei&icon=0&color=0&cache=1" alt="Visitor Count" height="28" />
+
+  <br /><br />
+
+  <img src="https://github.com/user-attachments/assets/2ff88f0d-bd77-46d9-8cf5-7d8c3ce622d6" 
+       width="600" 
+       style="border-radius: 12px; border: 1px solid #30363d;" 
+       alt="GitHub Achievements" />
 </div>
