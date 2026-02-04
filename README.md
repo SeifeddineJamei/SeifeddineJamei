@@ -40,13 +40,19 @@
  <br/>
 
  🏆 Achievements
-<p align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUyTFzue-Jq-UhZN5F0HcVn4YEhQnue-t6cw&s" 
-     width="100" 
-     height="100" 
-     style="border-radius: 50%; border: 2px solid #30363d;" 
-     alt="Pull Shark Achievement" />
-</p>
+<div align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUyTFzue-Jq-UhZN5F0HcVn4YEhQnue-t6cw&s" 
+       width="110" 
+       height="110" 
+       style="border-radius: 50%; border: 2px solid #30363d; margin-right: 10px;" 
+       alt="Pull Shark" />
+
+  <img src="https://pbs.twimg.com/media/F-W1LsNX0AAmMDB.jpg" 
+       width="110" 
+       height="110" 
+       style="border-radius: 50%; border: 2px solid #30363d;" 
+       alt="YOLO Badge" />
+</div>
 
 ---
 
