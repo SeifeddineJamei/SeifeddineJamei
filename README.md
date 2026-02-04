@@ -41,6 +41,7 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeifeddineJamei&theme=github_dark" alt="GitHub Stats" />
   <br/>
+    <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=SeifeddineJamei&theme=github_dark&hide_border=false" alt="GitHub Streak" />
  <br/>
 
