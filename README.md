@@ -2,7 +2,8 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhmODc1dWJlM3VxNWJqZDlqNnd4Y3ZkM2VsMnJ1cTk1aXp0Mmh0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif" align="right" height="180" />
   
   <h1 align="left">Hi 👋, I'm Seifeddine Jamei</h1>
-  <h3 align="left">Product Engineer from Tunisia 🇹🇳</h3>
+  <h3 align="left">Product Engineer from Tunisia </h3> <img width="64" height="64" alt="icons8-drapeau-de-la-tunisie-64" src="https://github.com/user-attachments/assets/cbdae315-37aa-4817-92d0-1756586595ab" />
+
   <p align="left">
     I bridge the gap between <strong>robust code</strong> and <strong>exceptional user experiences</strong>. I build scalable full-stack applications with a focus on clean architecture and intuitive design.
   </p>
