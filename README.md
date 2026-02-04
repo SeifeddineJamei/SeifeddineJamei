@@ -15,11 +15,7 @@
 
   <a href="https://x.com/JameiSeifeddine">
    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" height="28" style="border: 1px solid #333; border-radius: 5px;" />
-  </a> height="28" style="border: 1px solid #333; border-radius: 5px;)" 
-         style="border-radius: 10px; border: 1px solid #ffffff33;" 
-         height="35" 
-         alt="X Profile" />
-  </a>
+  </a> 
   </p>
 </div>
 
