@@ -14,9 +14,9 @@
  
 
   <a href="https://x.com/JameiSeifeddine">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" 
-         width="35" 
-         style="filter: invert(1) drop-shadow(0px 0px 5px rgba(255,255,255,0.4)); margin-bottom: 20px;" 
+    <img src="https://img.shields.io/badge/X-%23FFFFFF.svg?style=for-the-badge&logo=X&logoColor=black" 
+         style="border-radius: 10px; border: 1px solid #ffffff33;" 
+         height="35" 
          alt="X Profile" />
   </a>
   </p>
