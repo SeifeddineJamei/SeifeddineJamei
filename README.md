@@ -41,7 +41,11 @@
 
  🏆 Achievements
 <p align="center">
-<img src="https://img.shields.io/badge/Pull%20Shark-2%20PRs-blue?style=for-the-badge&logo=github" alt="Pull Shark Badge" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUyTFzue-Jq-UhZN5F0HcVn4YEhQnue-t6cw&s" 
+     width="100" 
+     height="100" 
+     style="border-radius: 50%; border: 2px solid #30363d;" 
+     alt="Pull Shark Achievement" />
 </p>
 
 ---
