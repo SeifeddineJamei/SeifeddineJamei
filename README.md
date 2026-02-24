@@ -21,7 +21,7 @@
 </div>
 
 <br />
- <div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="seifeddine-jamai-170512345" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tn.linkedin.com/in/seifeddine-jamai-170512345?trk=profile-badge">SEIFEDDINE JAMAI</a></div>
+ <div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="seifeddine-jamai-170512345" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tn.linkedin.com/in/seifeddine-jamai-170512345?trk=profile-badge"></a></div>
 ## 🛠 Tech Stack
 
 ### 🚀 Frontend & Design
