@@ -14,6 +14,10 @@
  
 
   <a href="https://x.com/JameiSeifeddine">
+
+
+    <div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="seifeddine-jamai-170512345" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tn.linkedin.com/in/seifeddine-jamai-170512345?trk=profile-badge">SEIFEDDINE JAMAI</a></div>
+              
    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" height="28" style="border: 1px solid #333; border-radius: 5px;" />
   </a> 
   </p>
