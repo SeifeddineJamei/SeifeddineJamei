@@ -38,7 +38,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeifeddineJamei&theme=github_dark" alt="GitHub Stats" />
   <br/>
     <br/>
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=livedetermined&layout=compact&theme=vision-friendly-dark)
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=livedetermined&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
  <br/>
 
  🏆 Achievements
