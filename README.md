@@ -38,7 +38,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeifeddineJamei&theme=github_dark" alt="GitHub Stats" />
   <br/>
     <br/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=livedetermined&theme=radical&mode=daily" alt="Top Languages" />
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=SeifeddineJamei&theme=jolly&border_radius=5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=197)](https://git.io/streak-stats" alt="Top Languages" />
  <br/>
 
  🏆 Achievements
