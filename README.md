@@ -38,7 +38,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeifeddineJamei&theme=github_dark" alt="GitHub Stats" />
   <br/>
     <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SeifeddineJamei&theme=github_dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://api.vercel.com/v6/deployments?team_qvkbBPysWpitnbxUE8l1wJzN" alt="GitHub Streak" />
  <br/>
 
  🏆 Achievements
