@@ -51,7 +51,7 @@
 </div>
 
 ## 💡 Engineering Philosophy
-> <img src="https://matter.bowred.com/wp-content/uploads/2020/11/Quote-6-4.jpg" width="100%" />
+> <img src="https://matter.bowred.com/wp-content/uploads/2020/11/Quote-6-4.jpg" width="100%" height="75px" />
 
 
 
